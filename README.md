@@ -16,6 +16,8 @@ Even though this is a static site consisting only of HTML, CSS, and client-side 
 
 We use [browserify](https://github.com/browserify/browserify) to enable browser support for the JavaScript modules we `require()`.
 
+Install the node modules yourself
+
 1. Clone the repo
 2. run `npm install`
 3. run `npm run-script build` to generate `dist/main.js`.
